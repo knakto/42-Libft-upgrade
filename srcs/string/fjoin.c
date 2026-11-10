@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "string.h"
+#include "libft.h"
 
 static void	cpy_and_cat(char *dest, const char *s1, const char *s2)
 {

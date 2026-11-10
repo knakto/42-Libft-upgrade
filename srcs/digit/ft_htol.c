@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "digit.h"
+#include "libft.h"
 
 long	ft_htol(const char *nptr)
 {

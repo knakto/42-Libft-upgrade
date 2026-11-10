@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "linked_list.h"
+#include "libft.h"
 
 t_list	*ft_list_find(t_list *list, void *data_ref,
 					int (*cmp)(void *content, void *data_ref))

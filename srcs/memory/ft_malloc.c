@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "memory.h"
+#include "libft.h"
 
 static t_list	**get_t_list(void)
 {

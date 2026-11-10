@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "linked_list.h"
+#include "libft.h"
 
 void	ft_lstremove_if(t_list **list, void *data_ref,
 		int (*cmp)(void *content, void *data_ref), void (*del)(void *content))
